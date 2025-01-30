@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "spring.mail.from-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mail.from-name'"
+  },
+  {
+    "name": "company.website",
+    "type": "java.lang.String",
+    "description": "A description for 'company.website'"
+  },
+  {
+    "name": "logging.logback.async.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'logging.logback.async.enabled'"
+  }
+]}
